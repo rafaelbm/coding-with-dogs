@@ -56,3 +56,10 @@ see :ref:`Options section for hardware and code <hwcodeOptions>` .
 
    Guidelines/content
    Guidelines/workflow
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: About
+   
+   about
